@@ -1,0 +1,6 @@
+- Hi, I’m @Phy-uiseok
+- I’m interested in Quantum Espresso codes and also interested in Wannier90 codes.
+- I’m currently learning about rt-TDDFT, Wannier90 and Tight-binding codes.
+- Also, I'm just a beginner of Fortran90 codes.
+- I’m looking to collaborate on developing some source codes of QE and Wannier90.
+- If you have a question or advise, please contact by uiseok95@unist.ac.kr
